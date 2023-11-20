@@ -26,7 +26,7 @@ A medium-long format where we discuss a couple of topic or interview someone wor
 - Meet the DevRel or "the AdvoCast" - (45 mins - 1h)
 Meeting a DevRel and discussing a topic related to this role and landscape
 
-## Podcast (recorded offline):
+## Other video/audio (recorded offline):
 
 - Tech news (15 mins)
-The most interesting IT news, in short
+The most interesting IT news, in short!
