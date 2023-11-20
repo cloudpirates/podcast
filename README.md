@@ -6,17 +6,27 @@ There won't be a lot of cutting going on, the experience will basically be like 
 
 # Formats and platforms
 
-Videos (Youtube)
+## Videos (Youtube)
 - 100 days of Cloud Native Products - demo/tutorials about CNCF landscape products (45 mins)
-- Cloud Pirate complete Podcast merging opinions/interview and tech news (60 - 75 mins)
+Taking a product from the CNCF Landscape, trying it and commenting about it's usage, usability and quirks
 
-Podcast (Spotify, Apple Podcast...)
 - Cloud Pirate complete Podcast merging opinions/interview and tech news (60 - 75 mins)
+A mix of pre-recorded formats to form a video version of The Cloud Pirates Podcast
 
-Podcast (live on Twitch.tv):
+## Podcast (Spotify, Apple Podcast...)
+
+- Cloud Pirate complete Podcast merging opinions/interview and tech news (60 - 75 mins)
+A mix of pre-recorded formats to form an audible version of The Cloud Pirates Podcast
+
+## Podcast (live on Twitch.tv):
 
 - Opinion/Interviews with guests (45 mins - 1h)
+A medium-long format where we discuss a couple of topic or interview someone working in the Cloud Native / IT field
 
-Podcast (recorded offline):
+- Meet the DevRel or "the AdvoCast" - (45 mins - 1h)
+Meeting a DevRel and discussing a topic related to this role and landscape
+
+## Podcast (recorded offline):
 
 - Tech news (15 mins)
+The most interesting IT news, in short
